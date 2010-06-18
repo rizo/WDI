@@ -1,12 +1,12 @@
     [file: WDI/README]
 
 WDI: Web Development Interface
-============================
+==============================
 
 ### BSD New License ###
 
 _Copyright (c) 2009 - 2010 ODIS, Rizo Isrofov <irm@odisproject.com>_  
-All rights reserved.
+_All rights reserved._
 
 Redistribution and use in source and binary forms, with or without  
 modification, are permitted provided that the following conditions are met:
@@ -33,14 +33,15 @@ LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS  
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Web Development Interface is an abstract superset of various modern web technologies.  
-Based on solid and reliable fundaments of the programming world it create a unique  
-environment for fast and easy web modules development.  
-Keeping the native complexity of server-oriented architecture and dynamic client application  
-design the library provides an advanced interface to create and maintain your project.  
-Accessibility and flexibility in software construction process are the primary goals of the framework.  
+Web Development Interface is an abstract superset of various modern internet  
+technologies. Based on solid and reliable fundaments of the programming world it
+create a unique environment for fast and easy web modules development.
+Keeping the native complexity of server-oriented architecture and dynamic client
+application design the library provides an advanced interface to develop and  
+maintain your project. Accessibility and flexibility in software construction  
+process are the primary goals of the framework.  
   
 WDI is composed of several components, such as Server, Processor and Controller.  
-The central module is the Processor which makes translation of WDI code possible.  
+The central module is the Processor which makes translation of WDI code.  
