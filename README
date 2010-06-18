@@ -1,0 +1,15 @@
+WDI: Web Development Interface¶
+
+Copyright (c) 2009, 2010 ODIS
+All rights reserved. Portugal, Jun 4 2010
+
+Web Development Interface is an abstract superset of various modern web technologies.
+Based on solid and reliable fundaments of the programming world it create a unique
+environment for fast and easy web modules development.
+Keeping the native complexity of server-oriented architecture and dynamic client
+application design the library provides an advanced interface to create and maintain your
+project.
+Accessibility and flexibility in software construction process are the primary goals of the framework.
+
+WDI is composed of several components, such as Server, Processor and Controller.
+The central module is the Processor which makes translation of WDI code possible.
