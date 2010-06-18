@@ -45,3 +45,5 @@ process are the primary goals of the framework.
   
 WDI is composed of several components, such as Server, Processor and Controller.  
 The central module is the Processor which makes translation of WDI code.  
+
+Documentation, user guide and samples are coming soon.
