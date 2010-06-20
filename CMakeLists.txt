@@ -31,7 +31,7 @@ cmake_minimum_required(VERSION 2.6)
 # Project settings
 project(WDI)
 set(WDI "wdi")
-set(Pedantic 1)
+set(Pedantic 0)
 
 # Project directories
 set(WDI_SRC_DIR "Source/")

@@ -48,7 +48,7 @@
 }
 
 %token <intVal> INTEGER
-%token <strVal> TAG IDENTIFIER STRING_LITERAL
+%token <strVal> TAG IDENTIFIER STRING
 
 %%
 
@@ -69,7 +69,7 @@ expression
 	;
 
 primary_expression
-	: STRING_LITERAL
+	: STRING
 	;
 
 statement
